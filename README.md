@@ -1,4 +1,4 @@
-Hi there 👋, my name is Chaewon Yoo
+Hi there 👋, my name is Chaewon Yoo.
 
 I'm a developer interested in Cloud and Backend Development.
 
